@@ -1,0 +1,1 @@
+This collection of coded events is being produced by Lockheed Martin Advanced Technology Laboratories for the Worldwide Integrated Crisis Early Warning System (W-ICEWS).  <https://www.lockheedmartin.com/us/products/W-ICEWS.html>.
