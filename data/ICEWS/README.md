@@ -1,3 +1,1 @@
-This collection of coded events is being produced by Lockheed Martin Advanced Technology Laboratories for the Worldwide Integrated Crisis Early Warning System (W-ICEWS).  <https://www.lockheedmartin.com/us/products/W-ICEWS.html>.  This data may only be used in conjunction with participation in the IARPA Hybrid Forecasting Competition program or the Global Forecasting Challenge.  For other use you must obtain permission from Lockheed Martin Advanced Technology Laboratories.
-
-As of 8 MAR 2019 we will no longer update this repository with ICEWS data.  Lockheed Martin publishes their coded events daily on Harvard Dataverse: <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QI2T9A>
+Lockheed Martin publishes their coded events daily on Harvard Dataverse: <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QI2T9A>
