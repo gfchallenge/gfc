@@ -14,9 +14,9 @@ In this folder we provide some Jupyter iPython notebooks with example Python cod
 - [STOXX](STOXX.ipynb) for financial indicators, including the VSTOXX index.
 - [eurostat](eurostat.ipynb) EU statistical data such as unemployment.
 - [EIA](EIA.ipynb) US Energy Information Administration data such as energy production and consumption world-wide.
-- [ACLED](ACLED.ipynb) Armed Conflict Location & Event Data Project (ACLED); acleddata.com.
-- [USGS Earthquakes](USGS Earthquakes.ipynb) USGS earthquake information world-wide.
-- [Mexican Crime Data](Mexican Crime Statistics.ipynb) Data from the Goverment of Mexico on crime.
+- [ACLED](ACLED.ipynb) Armed Conflict Location & Event Data Project ACLED, acleddata.com.
+- [USGS Earthquakes](USGS%20Earthquakes.ipynb) USGS earthquake information world-wide.
+- [Mexican Crime Data](Mexican%20Crime%20Statistics.ipynb) Data from the Goverment of Mexico on crime.
 
 ## Technical Details
 The local development fork for this project looked like this:
