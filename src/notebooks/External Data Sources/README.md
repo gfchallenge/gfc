@@ -1,0 +1,22 @@
+# Example Notebooks for Working with External Data Sources
+
+In this folder we provide some Jupyter iPython notebooks with example Python code for accessing external data sources that may be relevant to some of the Challenge IFPs.  Please note that we make no guarantee that these sources will have predictive power for any of the IFPs.  However, they may provide a launching point for Solvers to access external data relevant to the IFPs.  In some cases these sources will be the resolution criteria for the IFPs.
+
+## Caveats
+
+- Solvers are responsible for complying with all terms of use for the data sources they access.  All code in this document is provided using the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).  The examples have been tested using Python 3 but have not been tested under Python 2.
+- While the code in these notebooks worked on the day the notebooks were developed there is no guarantee that they are robust to changes in data provider APIs or data formats.
+- We do not claim that these sources will have predictive power for any IFPs.
+- We do not claim that this is an exhaustive set of data sources.  These notebooks do not cover every resolution data source.
+
+## Technical Details
+The local development fork for this project looked like this:
+
+- data
+- doc
+- src
+-- notebooks
+--- External Data Sources
+-- resources
+
+Each notebook begins with a preamble that directs plotting inside the notebook, loads libraries common to the notebooks, and loads file paths based on the above setup.  It also loads a JSON file called `auth.json` into a dict named `api_key_dict`.  This is one suggested method for keeping all of your API keys for the several sources in one place.
