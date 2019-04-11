@@ -17,6 +17,6 @@ The local development fork for this project looked like this:
 - src
 -- notebooks
 --- External Data Sources
--- resources
+- src -- resources
 
 Each notebook begins with a preamble that directs plotting inside the notebook, loads libraries common to the notebooks, and loads file paths based on the above setup.  It also loads a JSON file called `auth.json` into a dict named `api_key_dict`.  This is one suggested method for keeping all of your API keys for the several sources in one place.
