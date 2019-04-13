@@ -17,6 +17,7 @@ In this folder we provide some Jupyter iPython notebooks with example Python cod
 - [ACLED](ACLED.ipynb) Armed Conflict Location & Event Data Project ACLED, acleddata.com.
 - [USGS Earthquakes](USGS%20Earthquakes.ipynb) USGS earthquake information world-wide.
 - [Mexican Crime Data](Mexican%20Crime%20Statistics.ipynb) Data from the Goverment of Mexico on crime.
+- [Google Trends](Google%20Trends.ipynb) Google Trends search frequency by keyword.
 
 ## Technical Details
 The local development fork for this project looked like this:
